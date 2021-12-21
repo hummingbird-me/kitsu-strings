@@ -590,7 +590,7 @@ users:
       privacy: "Privacy"
       started: "Started"
       finished: "Finished"
-      notes: "Personal Notes"
+      notes: "Notes"
       remove: "Remove from Library"
       save: "Save Changes"
       saving: "Saving..."
